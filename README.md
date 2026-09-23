@@ -88,3 +88,7 @@ Contains the list of skills used by the system for resume skill extraction.
 - Add learning resources for missing skills
 - Deploy the application online
 - Add a database for storing analysis history
+
+## Demo Video
+
+[Watch the Demo Video](https://drive.google.com/file/d/1t6-EjiFy5gFB3SsP_xIqRHsQKDI4uoHB/view?usp=sharing)
