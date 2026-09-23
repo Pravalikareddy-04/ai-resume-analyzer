@@ -1,0 +1,13 @@
+Job Role,Skills,Description
+Python Developer,"Python,SQL,Git,REST API,Flask","Develop applications using Python, databases, APIs and web frameworks."
+Data Analyst,"Python,SQL,Pandas,NumPy,Excel,Power BI","Analyze datasets, create reports, build dashboards and generate business insights."
+Machine Learning Engineer,"Python,Machine Learning,Scikit-learn,SQL,Git,NumPy,Pandas","Build and deploy machine learning models using Python and machine learning libraries."
+Data Scientist,"Python,Machine Learning,Pandas,NumPy,Scikit-learn,SQL,Statistics","Analyze data and build predictive models using machine learning and statistical techniques."
+AI Engineer,"Python,Artificial Intelligence,Machine Learning,Deep Learning,TensorFlow,PyTorch","Develop artificial intelligence solutions using machine learning and deep learning."
+Web Developer,"HTML,CSS,JavaScript,React,Node.js,Git,REST API","Build responsive websites and web applications using modern web technologies."
+Frontend Developer,"HTML,CSS,JavaScript,React,Git","Develop user interfaces and interactive web applications."
+Backend Developer,"Python,Flask,FastAPI,SQL,MySQL,REST API,Git","Develop server-side applications, APIs and database systems."
+NLP Engineer,"Python,NLP,Machine Learning,Deep Learning,Artificial Intelligence,PyTorch","Develop natural language processing systems and text-based AI applications."
+Computer Vision Engineer,"Python,Computer Vision,OpenCV,Deep Learning,TensorFlow,PyTorch","Develop computer vision applications for image and video analysis."
+Generative AI Developer,"Python,Generative AI,LangChain,RAG,FAISS,Machine Learning","Build generative AI applications using retrieval augmented generation and language models."
+Full Stack Developer,"HTML,CSS,JavaScript,React,Node.js,Python,SQL,Git","Develop complete frontend and backend web applications."

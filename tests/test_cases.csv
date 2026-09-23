@@ -1,0 +1,6 @@
+Test Case,Input,Expected Output
+TC01,Resume containing Python and SQL,Python and SQL should be detected
+TC02,Resume containing Machine Learning and Pandas,Machine Learning and Pandas should be detected
+TC03,Resume containing HTML CSS JavaScript,Web development skills should be detected
+TC04,Resume containing React Node.js,Frontend and backend related skills should be detected
+TC05,Resume containing Python Machine Learning TensorFlow,AI/ML related roles should be recommended
